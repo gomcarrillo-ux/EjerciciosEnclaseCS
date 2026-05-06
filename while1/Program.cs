@@ -1,22 +1,23 @@
-﻿int numero;
-while (true)
+﻿// leer 5 edades y mostrar la edad promedio
+int[] edades = new int[5];
+int suma = 0;  
+double promedio = 0;
+for (int i = 0; i < edades.Length; i++)
 {
-    Console.Write("ingrese un numero entero: ");
-    if (int.TryParse(Console.ReadLine(), out numero))
+    try
     {
-        break;
+         Console.WriteLine("Ingrese la edad " + (i + 1) + ":");
+         edades[i] = int.Parse(Console.ReadLine()!);
     }
-    else
+    catch (FormatException)
     {
-        Console.ForegroundColor = ConsoleColor.Red;
-        Console.WriteLine("entrada no valida. Por favor, ingrese un numero entero.");
-        Console.ResetColor();
+        Console.WriteLine("Entrada no válida. Por favor, ingrese un número entero.");
+        i--; // Decrementar el índice para volver a solicitar la edad
     }
 }
-Console.WriteLine("Mostrando el cuadrado de los antecesores de " + numero + ":");
-int cont = 1;
-while(cont < numero)
+foreach (int edad in edades)
 {
-    Console.WriteLine("El cuadrado de " + cont + " es: " + Math.Pow(cont, 2));
-    cont++;
+    suma += edad;
 }
+promedio = (double)suma / edades.Length;
+Console.WriteLine("El promedio de las edades es: " + promedio);

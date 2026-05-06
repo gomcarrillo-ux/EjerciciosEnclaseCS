@@ -12,3 +12,4 @@ C:\Users\Home\Desktop\grupo6ProgramacionCS\while1\obj\Debug\net10.0\refint\while
 C:\Users\Home\Desktop\grupo6ProgramacionCS\while1\obj\Debug\net10.0\while1.pdb
 C:\Users\Home\Desktop\grupo6ProgramacionCS\while1\obj\Debug\net10.0\while1.genruntimeconfig.cache
 C:\Users\Home\Desktop\grupo6ProgramacionCS\while1\obj\Debug\net10.0\ref\while1.dll
+C:\Users\Home\Desktop\grupo6ProgramacionCS\while1\obj\Debug\net10.0\while1.sourcelink.json
