@@ -16,9 +16,6 @@ for (int i= 0; i < edades.Length; i++)
     Console.WriteLine("Por favor, ingresa un número válido para la edad.");
     i--; // Decrementar el índice para volver a solicitar la edadc
     }
-    Console.WriteLine("Dime la edad " + (i + 1) + ":");
-    edades[i] = int.Parse(Console.ReadLine()!);
-    suma += edades[i];
 }
 
 foreach (int edad in edades)
