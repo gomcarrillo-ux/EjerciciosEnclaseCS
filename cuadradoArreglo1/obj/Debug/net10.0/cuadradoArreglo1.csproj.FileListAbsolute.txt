@@ -1,0 +1,15 @@
+C:\Users\Home\Desktop\grupo6ProgramacionCS\cuadradoArreglo1\obj\Debug\net10.0\cuadradoArreglo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\grupo6ProgramacionCS\cuadradoArreglo1\obj\Debug\net10.0\cuadradoArreglo1.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\grupo6ProgramacionCS\cuadradoArreglo1\obj\Debug\net10.0\cuadradoArreglo1.AssemblyInfo.cs
+C:\Users\Home\Desktop\grupo6ProgramacionCS\cuadradoArreglo1\obj\Debug\net10.0\cuadradoArreglo1.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\grupo6ProgramacionCS\cuadradoArreglo1\obj\Debug\net10.0\cuadradoArreglo1.sourcelink.json
+C:\Users\Home\Desktop\grupo6ProgramacionCS\cuadradoArreglo1\bin\Debug\net10.0\cuadradoArreglo1.exe
+C:\Users\Home\Desktop\grupo6ProgramacionCS\cuadradoArreglo1\bin\Debug\net10.0\cuadradoArreglo1.deps.json
+C:\Users\Home\Desktop\grupo6ProgramacionCS\cuadradoArreglo1\bin\Debug\net10.0\cuadradoArreglo1.runtimeconfig.json
+C:\Users\Home\Desktop\grupo6ProgramacionCS\cuadradoArreglo1\bin\Debug\net10.0\cuadradoArreglo1.dll
+C:\Users\Home\Desktop\grupo6ProgramacionCS\cuadradoArreglo1\bin\Debug\net10.0\cuadradoArreglo1.pdb
+C:\Users\Home\Desktop\grupo6ProgramacionCS\cuadradoArreglo1\obj\Debug\net10.0\cuadradoArreglo1.dll
+C:\Users\Home\Desktop\grupo6ProgramacionCS\cuadradoArreglo1\obj\Debug\net10.0\refint\cuadradoArreglo1.dll
+C:\Users\Home\Desktop\grupo6ProgramacionCS\cuadradoArreglo1\obj\Debug\net10.0\cuadradoArreglo1.pdb
+C:\Users\Home\Desktop\grupo6ProgramacionCS\cuadradoArreglo1\obj\Debug\net10.0\cuadradoArreglo1.genruntimeconfig.cache
+C:\Users\Home\Desktop\grupo6ProgramacionCS\cuadradoArreglo1\obj\Debug\net10.0\ref\cuadradoArreglo1.dll

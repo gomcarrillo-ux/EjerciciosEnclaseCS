@@ -1,0 +1,15 @@
+C:\Users\Home\Desktop\grupo6ProgramacionCS\restaArreglo1\bin\Debug\net10.0\restaArreglo1.exe
+C:\Users\Home\Desktop\grupo6ProgramacionCS\restaArreglo1\bin\Debug\net10.0\restaArreglo1.deps.json
+C:\Users\Home\Desktop\grupo6ProgramacionCS\restaArreglo1\bin\Debug\net10.0\restaArreglo1.runtimeconfig.json
+C:\Users\Home\Desktop\grupo6ProgramacionCS\restaArreglo1\bin\Debug\net10.0\restaArreglo1.dll
+C:\Users\Home\Desktop\grupo6ProgramacionCS\restaArreglo1\bin\Debug\net10.0\restaArreglo1.pdb
+C:\Users\Home\Desktop\grupo6ProgramacionCS\restaArreglo1\obj\Debug\net10.0\restaArreglo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\grupo6ProgramacionCS\restaArreglo1\obj\Debug\net10.0\restaArreglo1.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\grupo6ProgramacionCS\restaArreglo1\obj\Debug\net10.0\restaArreglo1.AssemblyInfo.cs
+C:\Users\Home\Desktop\grupo6ProgramacionCS\restaArreglo1\obj\Debug\net10.0\restaArreglo1.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\grupo6ProgramacionCS\restaArreglo1\obj\Debug\net10.0\restaArreglo1.sourcelink.json
+C:\Users\Home\Desktop\grupo6ProgramacionCS\restaArreglo1\obj\Debug\net10.0\restaArreglo1.dll
+C:\Users\Home\Desktop\grupo6ProgramacionCS\restaArreglo1\obj\Debug\net10.0\refint\restaArreglo1.dll
+C:\Users\Home\Desktop\grupo6ProgramacionCS\restaArreglo1\obj\Debug\net10.0\restaArreglo1.pdb
+C:\Users\Home\Desktop\grupo6ProgramacionCS\restaArreglo1\obj\Debug\net10.0\restaArreglo1.genruntimeconfig.cache
+C:\Users\Home\Desktop\grupo6ProgramacionCS\restaArreglo1\obj\Debug\net10.0\ref\restaArreglo1.dll
